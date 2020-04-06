@@ -1,5 +1,5 @@
 .cart-dropdown {
-  position: absolute;
+  position: fixed;
   width: 260px;
   height: 340px;
   display: flex;
@@ -10,6 +10,7 @@
   top: 90px;
   right: 40px;
   z-index: 5;
+  opacity: 0.9;
 
   .cart-items {
     height: 240px;
