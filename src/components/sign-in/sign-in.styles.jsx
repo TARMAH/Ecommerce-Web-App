@@ -4,6 +4,8 @@ export const SignInContainer = styled.div`
   width: 425px;
   display: flex;
   flex-direction: column;
+
+  
 `;
 
 export const SignInTitle = styled.h2`
